@@ -1,0 +1,36 @@
+
+/*************** TAG SELECTORS ***********/
+h1{
+  color: red;
+  font-size: 50px;
+}
+
+
+img:hover{
+  background-color: gold;
+  height: 200px;
+  width: 200px;
+}
+
+/*************** CLASS SELECTORS ***********/
+
+.Fruits{
+  background-color: Green;
+  height: 200px;
+  width: 200px;
+}
+
+.Apple{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.circular{
+  border-radius: 200%;
+}
+
+/*************** ID SELECTORS ***********/
+#heading {
+  color: violet;
+}
